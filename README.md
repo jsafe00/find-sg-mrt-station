@@ -49,9 +49,4 @@ console.log(find);
 <img src="https://lh3.googleusercontent.com/qVy6krF6jBNXUM-OXvogLB0EZJYpwgydBnAOsFmUdV-CId_qKQV7HXs5mvAA5oOaaIyP8NXbWN1CrQIV1UAlG3mqYTpJjRyycrdjJ46UVHCpRmtTzahccOzlSJbFxXbhywK6PGoL5jg=w2400">
 
 
-### In Progress
-More than one line/change station
- 
-
-
-
+### If you spot some errors or needs to be updated, please request PR. Thanks.
