@@ -7,34 +7,24 @@
             "name": "East-West Line",
             "color": "Green",
             "code": "EW",
-            "description": "The East-West MRT line extends thru 35 stations from Tuas Link in the West to Pasir Ris and Changi Airport in the East.",
             "station": [
               "Changi Aiport",
-              "Expo",
               "Pasir Ris",
-              "Tampines",
               "Simei",
               "Tanah Merah",
               "Bedok",
               "Kembangan",
               "Eunos",
-              "Paya Lebar",
               "Aljuined",
               "Kallang",
               "Lavender",
-              "Bugis",
-              "City Hall",
-              "Raffles Place",
               "Tanjong Pagar",
-              "Outram Park",
               "Tiong Bahru",
               "Redhill",
               "Queenstown",
               "Commonwealth",
-              "Buona Vista",
               "Dover",
               "Clementi",
-              "Jurong East",
               "Chinese Garden",
               "Lakeside",
               "Boon Lay",
@@ -50,54 +40,38 @@
             "name": "Circle Line",
             "color": "Orange",
             "code": "CC/CE",
-            "description": "The Circle Line has 30 stations which of about one third are interchange stations connected to all lines and the harbor.",
             "station": [
-              "Marina Bay",
-              "Bayfront",
-              "Dhoby Ghaut",
               "Bras Basah",
               "Esplanade",
-              "Promenade",
               "Nicoll Highway",
               "Stadium",
               "Mountbatten",
               "Dakota",
-              "Paya Lebar",
-              "MacPherson",
               "Tai Seng",
               "Bartley",
-              "Serangoon",
               "Lorong Chuan",
-              "Bishan",
               "Marymount",
-              "Caldecott",
-              "Botanic Gardens",
               "Farrer Road",
               "Holland Village",
-              "Buona Vista",
               "One-North",
               "Kant Ridge",
               "Haw Par Villa",
               "Pasir Panjang",
               "Labrador Park",
-              "Telok Blangah",
-              "HarbourFront"
+              "Telok Blangah"
             ]
           },
           {
             "name": "North-South Line",
             "color": "Red",
             "code": "NS",
-            "description": "The North south line extends thru 27 stations from Jurong East, a transfer station connected to the green line.",
             "station": [
-              "Jurong East",
               "Bukit Batok",
               "Bukit Gombak",
               "Choa Chu Kang",
               "Yaw Tee",
               "Kranji",
               "Marsiling",
-              "Woodlands",
               "Admirality",
               "Sembawang",
               "Canberra",
@@ -105,17 +79,10 @@
               "Khatib",
               "Yio Chu Kang",
               "Ang Mo Kio",
-              "Bishan",
               "Braddell",
               "Toa Payoh",
               "Novena",
-              "Newton",
-              "Orchard",
               "Somerset",
-              "Dhoby Ghaut",
-              "City Hall",
-              "Raffles Place",
-              "Marina Bay",
               "Marina South Pier"
             ]
           },
@@ -123,7 +90,6 @@
             "name": "Downtown Line",
             "color": "Blue",
             "code": "DT",
-            "description": "The line serves 34 stations from Bukit Panjang to Downtown close to Marina Bay, ends at Expo, near Changi Airport.",
             "station": [
               "Bukit Panjang",
               "Cashew",
@@ -132,52 +98,34 @@
               "King Albert Park",
               "Sixth Avenue",
               "Tan Kah Kee",
-              "Botanic Gardens",
-              "Stevens",
-              "Newton",
-              "Little India",
               "Rochor",
-              "Bugis",
-              "Promenade",
-              "Bayfront",
               "Downton",
               "Telok Ayer",
-              "Chinatown",
               "Fort Canning",
               "Bencoolen",
               "Jalan Besar",
               "Bendemeer",
               "Geylang Bahru",
               "Mattar",
-              "MacPherson",
               "Ubi",
               "Kaki Bukit",
               "Bedok North",
               "Bedok Reservoir",
               "Tampines West",
-              "Tampines",
               "Tampines East",
-              "Upper Changi",
-              "Expo"
+              "Upper Changi"
             ]
           },
           {
             "name": "North East Line",
             "color": "Purple",
             "code": "NE",
-            "description": "The North east line has 16 stations, which of 6 are interchange stations to other MRT lines, 2 to LRT Lines and to the harbor.",
             "station": [
-              "HarbourFront",
-              "Outram Park",
-              "Chinatown",
               "Clarke Quay",
-              "Dhoby Ghaut",
-              "Little India",
               "Farrer Road",
               "Boon Keng",
               "Potong Pasir",
               "Woodleigh",
-              "Serangoon",
               "Kovan",
               "Hougang",
               "Buangkok",
@@ -189,27 +137,150 @@
             "name": "Thomson-East Coast Line",
             "color": "Brown",
             "code": "TE",
-            "description": "Thomson East Coast line is under construction with only three operational stations and six testing.",
             "station": [
               "Woodlands North",
-              "Woodlands",
               "Woodlands South",
               "Springleaf",
               "Lentor",
               "Mayflower",
               "Bright Hill",
               "Upper Thomson",
-              "Caldecott",
-              "Stevens",
               "Napier",
               "Orchard Boulevard",
-              "Orchard",
               "Great World",
               "Havelock",
-              "Outram Park",
               "Maxwell",
-              "Shenton Way",
+              "Shenton Way"
+            ]
+          },
+          {
+            "name": "East-West Line | Downtown Line",
+            "color": "Green | Blue",
+            "code": "EW |  DT",
+            "station": [
+              "Expo",
+              "Tampines",
+              "Bugis"
+            ]
+          },
+          {
+            "name": "East-West Line | Circle Line",
+            "color": "Green | Orange",
+            "code": "EW |  CC/CE",
+            "station": [
+              "Paya Lebar",
+              "Buona Vista"
+            ]
+          },
+          {
+            "name": "East-West Line | North-South Line",
+            "color": "Green | Red",
+            "code": "EW |  NS",
+            "station": [
+              "City Hall",
+              "Raffles Place",
+              "Jurong East"
+            ]
+          },
+          {
+            "name": "East-West Line | North-East Line",
+            "color": "Green | Purple",
+            "code": "EW | NE",
+            "station": [
+              "Outram Park"
+            ]
+          },
+          {
+            "name": "Circle Line | North-South Line",
+            "color": "Orange | Red",
+            "code": "CC/CE | NS",
+            "station": [
+              "Bishan"
+            ]
+          },
+          {
+            "name": "Circle Line | North-South Line | Thomson-East Coast Line",
+            "color": "Orange | Red | Brown",
+            "code": "CC/CE | NS | TE",
+            "station": [
               "Marina Bay"
+            ]
+          },
+          {
+            "name": "Circle Line | Downtown Line",
+            "color": "Orange | Blue",
+            "code": "CC/CE | DT",
+            "station": [
+              "Bayfront",
+              "Promenade",
+              "MacPherson",
+              "Botanic Gardens"
+            ]
+          },
+          {
+            "name": "Circle Line | North-East Line | North-South Line",
+            "color": "Orange | Purple | Red",
+            "code": "CC/CE | NE | NS",
+            "station": [
+              "Dhoby Ghaut"
+            ]
+          },
+          {
+            "name": "Circle Line | North-East Line",
+            "color": "Orange | Purple",
+            "code": "CC/CE | NE",
+            "station": [
+              "Serangoon",
+              "HarbourFront"
+            ]
+          },
+          {
+            "name": "Downtown Line | North-South Line",
+            "color": "Blue | Red",
+            "code": "DT | NS",
+            "station": [
+              "Newton"
+            ]
+          },
+          {
+            "name": "Downtown Line | North-East Line",
+            "color": "Blue | Purple",
+            "code": "DT | NE",
+            "station": [
+              "Little India",
+              "Chinatown"
+            ]
+          },
+          {
+            "name": "North-South Line | Thomson-East Coast Line",
+            "color": "Red | Brown",
+            "code": "NS | TE",
+            "station": [
+              "Woodlands"
+            ]
+          },
+          {
+            "name": "Circle Line | Thomson-East Coast Line",
+            "color": "Orange | Brown",
+            "code": "CC/CE | TE",
+            "station": [
+              "Caldecott"
+            ]
+          },
+          {
+            "name": "Downton Line | Thomson-East Coast Line",
+            "color": "Blue | Brown",
+            "code": "DT | TE",
+            "station": [
+              "Stevens"
+            ]
+          },
+          {
+            "name": "North-South Line | Thomson-East Coast Line",
+            "color": "Red | Brown",
+            "code": "NS | TE",
+            "station": [
+              "Orchard"
             ]
           }
         ]

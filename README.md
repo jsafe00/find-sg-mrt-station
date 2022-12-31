@@ -21,14 +21,14 @@ import {findStation} from "find-sg-mrt-station";
 ### Usage
 
 ```
-const station = findStation("Toa Payoh");
+const station = findStation("Bishan");
 ```
 
 or
 
 ```
 const findStation = require("find-sg-mrt-station");
-let station =  "Toa Payoh";
+let station =  "Bishan";
 let find = findStation(station);
 console.log(find);
 ```
@@ -39,16 +39,14 @@ console.log(find);
 {
   found: true,
   mrt: 'Singapore MRT',
-  name: 'North-South Line',
-  color: 'Red',
-  code: 'NS',
-  description: 'The North south line extends thru 27 stations from Jurong East,
-a transfer station connected to the green line.'
+  name: 'Circle Line | North-South Line',
+  color: 'Orange | Red',
+  code: 'CC/CE | NS'
 }
 
 ```
 
-<img src="https://lh3.googleusercontent.com/u1D5mrsgec9LfKN2tV5ZCRSUCcxJ50v_Ud-wxgL6QziL8kZYnUM86q7ARTeb9BzduL19ZQDw5W9FgGD8uGUvqcBUe1lCxWTDjs6TUYozdiBYuogfBl73IgpODG7itA-4gq_KsXsi2ko=w2400">
+<img src="https://lh3.googleusercontent.com/qVy6krF6jBNXUM-OXvogLB0EZJYpwgydBnAOsFmUdV-CId_qKQV7HXs5mvAA5oOaaIyP8NXbWN1CrQIV1UAlG3mqYTpJjRyycrdjJ46UVHCpRmtTzahccOzlSJbFxXbhywK6PGoL5jg=w2400">
 
 
 

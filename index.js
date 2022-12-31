@@ -16,7 +16,6 @@ const findStation = station => {
         result.name = line.name;
         result.color = line.color;
         result.code = line.code;
-        result.description = line.description;
       }
       return null;
     });
