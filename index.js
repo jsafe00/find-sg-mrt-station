@@ -10,12 +10,21 @@ const findStation = station => {
 
   allStations.filter(mrt => {
     mrt.line.map(line => {
-      if (line.station.includes(station)) {
+      line.station.map( station => {
+        stationName = station.name;
+      })
+      if (station.includes(stationName)) {
         result.found = true;
         result.mrt = mrt.name;
         result.name = line.name;
         result.color = line.color;
         result.code = line.code;
+
+        line.station.map(station => {
+          result.station = station.name;
+          result.station_code = station.stationCode;
+        
+         });
       }
       return null;
     });

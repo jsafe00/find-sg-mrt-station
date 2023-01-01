@@ -8,32 +8,110 @@
             "color": "Green",
             "code": "EW",
             "station": [
-              "Changi Aiport",
-              "Pasir Ris",
-              "Simei",
-              "Tanah Merah",
-              "Bedok",
-              "Kembangan",
-              "Eunos",
-              "Aljuined",
-              "Kallang",
-              "Lavender",
-              "Tanjong Pagar",
-              "Tiong Bahru",
-              "Redhill",
-              "Queenstown",
-              "Commonwealth",
-              "Dover",
-              "Clementi",
-              "Chinese Garden",
-              "Lakeside",
-              "Boon Lay",
-              "Pioneer",
-              "Joo Kuun",
-              "Gul Circle",
-              "Tuas Crescent",
-              "Tuas West Road",
-              "Tuas Link"
+              { 
+                "name": "Changi Aiport",
+                "stationCode": "CG2"
+              },   
+              {
+                "name": "Pasir Ris", 
+                "stationCode": "EW1"
+              },
+              {
+                "name": "Simei", 
+                "stationCode": "EW3"
+              },
+              {
+                "name": "Tanah Merah", 
+                "stationCode": "EW4 | CG"
+              },
+              {
+                "name": "Bedok", 
+                "stationCode": "EW5"
+              },
+              {
+                "name": "Kembangan", 
+                "stationCode": "EW6"
+              },
+              {
+                "name": "Eunos", 
+                "stationCode": "EW7"
+              },
+              {
+                "name": "Aljuined", 
+                "stationCode": "EW9"
+              },
+              {
+                "name": "Kallang", 
+                "stationCode": "EW10"
+              },
+              {
+                "name": "Lavender", 
+                "stationCode": "EW11"
+              },
+              {
+                "name": "Tanjong Pagar", 
+                "stationCode": "EW15"
+              },
+              {
+                "name": "Tiong Bahru", 
+                "stationCode": "EW17"
+              },
+              {
+                "name": "Redhill", 
+                "stationCode": "EW18"
+              },
+              {
+                "name": "Queenstown", 
+                "stationCode": "EW19"
+              },
+              {
+                "name": "Commonwealth", 
+                "stationCode": "EW20"
+              },
+              {
+                "name": "Dover", 
+                "stationCode": "EW22"
+              },
+              {
+                "name": "Clementi", 
+                "stationCode": "EW23"
+              },
+              {
+                "name": "Chinese Garden", 
+                "stationCode": "EW25"
+              },
+              {
+                "name": "Lakeside", 
+                "stationCode": "EW26"
+              },
+              {
+                "name": "Boon Lay", 
+                "stationCode": "EW27"
+              },
+              {
+                "name": "Pioneer", 
+                "stationCode": "EW28"
+              },
+              {
+                "name": "Joo Kuun", 
+                "stationCode": "EW29"
+              },
+              {
+                "name": "Gul Circle", 
+                "stationCode": "EW30"
+              },
+              {
+                "name": "Tuas Crescent", 
+                "stationCode": "EW31"
+              },
+              {
+                "name": "Tuas West Road", 
+                "stationCode": "EW32"
+              },
+              {
+                "name": "Tuas Link", 
+                "stationCode": "EW33"
+              }
             ]
           },
           {
@@ -41,24 +119,82 @@
             "color": "Orange",
             "code": "CC/CE",
             "station": [
-              "Bras Basah",
-              "Esplanade",
-              "Nicoll Highway",
-              "Stadium",
-              "Mountbatten",
-              "Dakota",
-              "Tai Seng",
-              "Bartley",
-              "Lorong Chuan",
-              "Marymount",
-              "Farrer Road",
-              "Holland Village",
-              "One-North",
-              "Kant Ridge",
-              "Haw Par Villa",
-              "Pasir Panjang",
-              "Labrador Park",
-              "Telok Blangah"
+              {
+                "name": "Bras Basah", 
+                "stationCode": "CC2"
+              },
+              {
+                "name": "Esplanade", 
+                "stationCode": "CC3"
+              },
+              {
+                "name": "Nicoll Highway", 
+                "stationCode": "CC5"
+              },
+              {
+                "name": "Stadium", 
+                "stationCode": "CC6"
+              },
+              {
+                "name": "Mountbatten", 
+                "stationCode": "CC7"
+              },
+              {
+                "name": "Dakota", 
+                "stationCode": "CC8"
+              },
+              {
+                "name": "Tai Seng", 
+                "stationCode": "CC11"
+              },
+              {
+                "name": "Bartley", 
+                "stationCode": "CC12"
+              },
+              {
+                "name": "Lorong Chuan", 
+                "stationCode": "CC14"
+              },
+              {
+                "name": "Marymount", 
+                "stationCode": "CC16"
+              },
+              {
+                "name": "Farrer Road", 
+                "stationCode": "CC20"
+              },
+              {
+                "name": "Holland Village", 
+                "stationCode": "CC21"
+              },
+              {
+                "name": "Farrer Road", 
+                "stationCode": "CC20"
+              },
+              {
+                "name": "One-North", 
+                "stationCode": "CC23"
+              },
+              {
+                "name": "Kant Ridge", 
+                "stationCode": "CC24"
+              },
+              {
+                "name": "Haw Par Villa", 
+                "stationCode": "CC25"
+              },
+              {
+                "name": "Pasir Panjang", 
+                "stationCode": "CC26"
+              },
+              {
+                "name": "Labrador Park", 
+                "stationCode": "CC27"
+              },
+              {
+                "name": "Telok Blangah", 
+                "stationCode": "CC28"
+              }
             ]
           },
           {
@@ -66,24 +202,78 @@
             "color": "Red",
             "code": "NS",
             "station": [
-              "Bukit Batok",
-              "Bukit Gombak",
-              "Choa Chu Kang",
-              "Yaw Tee",
-              "Kranji",
-              "Marsiling",
-              "Admirality",
-              "Sembawang",
-              "Canberra",
-              "Yishun",
-              "Khatib",
-              "Yio Chu Kang",
-              "Ang Mo Kio",
-              "Braddell",
-              "Toa Payoh",
-              "Novena",
-              "Somerset",
-              "Marina South Pier"
+              {
+                "name": "Bukit Batok", 
+                "stationCode": "NS2"
+              },
+              {
+                "name": "Bukit Gombak", 
+                "stationCode": "NS3"
+              },
+              {
+                "name": "Choa Chu Kang", 
+                "stationCode": "NS4"
+              },
+              {
+                "name": "Yaw Tee", 
+                "stationCode": "NS5"
+              },
+              {
+                "name": "Kranji", 
+                "stationCode": "NS7"
+              },
+              {
+                "name": "Marsiling", 
+                "stationCode": "NS8"
+              },
+              {
+                "name": "Admirality", 
+                "stationCode": "NS10"
+              },
+              {
+                "name": "Sembawang", 
+                "stationCode": "NS11"
+              },
+              {
+                "name": "Canberra", 
+                "stationCode": "NS12"
+              },
+              {
+                "name": "Yishun", 
+                "stationCode": "NS13"
+              },
+              {
+                "name": "Khatib", 
+                "stationCode": "NS14"
+              },
+              {
+                "name": "Yio Chu Kang", 
+                "stationCode": "NS15"
+              },
+              {
+                "name": "Ang Mo Kio", 
+                "stationCode": "NS16"
+              },
+              {
+                "name": "Braddell", 
+                "stationCode": "NS18"
+              },
+              {
+                "name": "Toa Payoh", 
+                "stationCode": "NS19"
+              },
+              {
+                "name": "Novena", 
+                "stationCode": "NS20"
+              },
+              {
+                "name": "Somerset", 
+                "stationCode": "NS23"
+              },
+              {
+                "name": "Marina South Pier", 
+                "stationCode": "NS28"
+              }
             ]
           },
           {
@@ -91,29 +281,98 @@
             "color": "Blue",
             "code": "DT",
             "station": [
-              "Bukit Panjang",
-              "Cashew",
-              "Hillview",
-              "Beauty World",
-              "King Albert Park",
-              "Sixth Avenue",
-              "Tan Kah Kee",
-              "Rochor",
-              "Downton",
-              "Telok Ayer",
-              "Fort Canning",
-              "Bencoolen",
-              "Jalan Besar",
-              "Bendemeer",
-              "Geylang Bahru",
-              "Mattar",
-              "Ubi",
-              "Kaki Bukit",
-              "Bedok North",
-              "Bedok Reservoir",
-              "Tampines West",
-              "Tampines East",
-              "Upper Changi"
+              {
+                "name": "Bukit Panjang", 
+                "stationCode": "DT1"
+              },
+              {
+                "name": "Cashew", 
+                "stationCode": "DT2"
+              },
+              {
+                "name": "Hillview", 
+                "stationCode": "DT3"
+              },
+              {
+                "name": "Beauty World", 
+                "stationCode": "DT5"
+              },
+              {
+                "name": "King Albert Park", 
+                "stationCode": "DT6"
+              },
+              {
+                "name": "Sixth Avenue", 
+                "stationCode": "DT7"
+              },
+              {
+                "name": "Tan Kah Kee", 
+                "stationCode": "DT8"
+              },
+              {
+                "name": "Rochor", 
+                "stationCode": "DT13"
+              },
+              {
+                "name": "Downton", 
+                "stationCode": "DT17"
+              },
+              {
+                "name": "Telok Ayer", 
+                "stationCode": "DT18"
+              },
+              {
+                "name": "Fort Canning", 
+                "stationCode": "DT20"
+              },
+              {
+                "name": "Bencoolen", 
+                "stationCode": "DT21"
+              },
+              {
+                "name": "Jalan Besar", 
+                "stationCode": "DT22"
+              },
+              {
+                "name": "Bendemeer", 
+                "stationCode": "DT23"
+              },
+              {
+                "name": "Geylang Bahru", 
+                "stationCode": "DT24"
+              },
+              {
+                "name": "Mattar", 
+                "stationCode": "DT25"
+              },
+              {
+                "name": "Ubi", 
+                "stationCode": "DT27"
+              },
+              {
+                "name": "Kaki Bukit", 
+                "stationCode": "DT28"
+              },
+              {
+                "name": "Bedok North", 
+                "stationCode": "DT29"
+              },
+              {
+                "name": "Bedok Reservoir", 
+                "stationCode": "DT30"
+              },
+              {
+                "name": "Tampines West", 
+                "stationCode": "DT31"
+              },
+              {
+                "name": "Tampines East", 
+                "stationCode": "DT33"
+              },
+              {
+                "name": "Upper Changi", 
+                "stationCode": "DT35"
+              }
             ]
           },
           {
@@ -121,16 +380,46 @@
             "color": "Purple",
             "code": "NE",
             "station": [
-              "Clarke Quay",
-              "Farrer Road",
-              "Boon Keng",
-              "Potong Pasir",
-              "Woodleigh",
-              "Kovan",
-              "Hougang",
-              "Buangkok",
-              "Sengkang",
-              "Punggol"
+              {
+                "name": "Clarke Quay", 
+                "stationCode": "NE5"
+              },
+              {
+                "name": "Farrer Park", 
+                "stationCode": "NE8"
+              },
+              {
+                "name": "Boon Keng", 
+                "stationCode": "NE9"
+              },
+              {
+                "name": "Potong Pasir", 
+                "stationCode": "NE10"
+              },
+              {
+                "name": "Woodleigh", 
+                "stationCode": "NE11"
+              },
+              {
+                "name": "Kovan", 
+                "stationCode": "NE13"
+              },
+              {
+                "name": "Hougang", 
+                "stationCode": "NE14"
+              },
+              {
+                "name": "Buangkok", 
+                "stationCode": "NE15"
+              },
+              {
+                "name": "Sengkang", 
+                "stationCode": "NE16"
+              },
+              {
+                "name": "Punggol", 
+                "stationCode": "NE17"
+              }
             ]
           },
           {
@@ -138,19 +427,58 @@
             "color": "Brown",
             "code": "TE",
             "station": [
-              "Woodlands North",
-              "Woodlands South",
-              "Springleaf",
-              "Lentor",
-              "Mayflower",
-              "Bright Hill",
-              "Upper Thomson",
-              "Napier",
-              "Orchard Boulevard",
-              "Great World",
-              "Havelock",
-              "Maxwell",
-              "Shenton Way"
+              {
+                "name": "Woodlands North", 
+                "stationCode": "TE1"
+              },
+              {
+                "name": "Woodlands South", 
+                "stationCode": "TE3"
+              },
+              {
+                "name": "Springleaf", 
+                "stationCode": "TE4"
+              },
+              {
+                "name": "Lentor", 
+                "stationCode": "TE5"
+              },
+              {
+                "name": "Mayflower", 
+                "stationCode": "TE6"
+              },
+              {
+                "name": "Bright Hill", 
+                "stationCode": "TE7"
+              },
+              {
+                "name": "Upper Thomson", 
+                "stationCode": "TE8"
+              },
+              {
+                "name": "Napier", 
+                "stationCode": "TE12"
+              },
+              {
+                "name": "Orchard Boulevard", 
+                "stationCode": "TE13"
+              },
+              {
+                "name": "Great World", 
+                "stationCode": "TE15"
+              },
+              {
+                "name": "Havelock", 
+                "stationCode": "TE16"
+              },
+              {
+                "name": "Maxwell", 
+                "stationCode": "TE18"
+              },
+              {
+                "name": "Shenton Way", 
+                "stationCode": "TE19"
+              }
             ]
           },
           {
@@ -158,9 +486,18 @@
             "color": "Green | Blue",
             "code": "EW |  DT",
             "station": [
-              "Expo",
-              "Tampines",
-              "Bugis"
+              {
+                "name": "Expo", 
+                "stationCode": "CG1 | DT35"
+              },
+              {
+                "name": "Tampines", 
+                "stationCode": "EW2 | DT32"
+              },
+              {
+                "name": "Bugis", 
+                "stationCode": "EW12 | DT14"
+              }
             ]
           },
           {
@@ -168,8 +505,14 @@
             "color": "Green | Orange",
             "code": "EW |  CC/CE",
             "station": [
-              "Paya Lebar",
-              "Buona Vista"
+              {
+                "name": "Paya Lebar", 
+                "stationCode": "EW8 | CC9"
+              },
+              {
+                "name": "Buona Vista", 
+                "stationCode": "EW21 | CC22"
+              }
             ]
           },
           {
@@ -177,9 +520,18 @@
             "color": "Green | Red",
             "code": "EW |  NS",
             "station": [
-              "City Hall",
-              "Raffles Place",
-              "Jurong East"
+              {
+                "name": "City Hall", 
+                "stationCode": "EW13 | NS25"
+              },
+              {
+                "name": "Raffles Place", 
+                "stationCode": "EW14| NS26"
+              },
+              {
+                "name": "Jurong East", 
+                "stationCode": "EW24 | NS1"
+              }
             ]
           },
           {
@@ -187,7 +539,10 @@
             "color": "Green | Purple",
             "code": "EW | NE",
             "station": [
-              "Outram Park"
+              {
+                "name": "Outram Park", 
+                "stationCode": "EW16 | NE3"
+              }
             ]
           },
           {
@@ -195,7 +550,10 @@
             "color": "Orange | Red",
             "code": "CC/CE | NS",
             "station": [
-              "Bishan"
+              {
+              "name": "Bishan",
+              "stationCode": "NS17 | CC15"
+              } 
             ]
           },
           {
@@ -203,7 +561,10 @@
             "color": "Orange | Red | Brown",
             "code": "CC/CE | NS | TE",
             "station": [
-              "Marina Bay"
+              {
+                "name": "Marina Bay",
+                "stationCode": "CE2 | NS27"
+              } 
             ]
           },
           {
@@ -211,10 +572,22 @@
             "color": "Orange | Blue",
             "code": "CC/CE | DT",
             "station": [
-              "Bayfront",
-              "Promenade",
-              "MacPherson",
-              "Botanic Gardens"
+              {
+                "name": "Bayfront",
+                "stationCode": "CE1 | DT16"
+              },
+              {
+                "name": "Promenade",
+                "stationCode": "CC4 | DT15"
+              },
+              {
+                "name": "MacPherson",
+                "stationCode": "CC10 | DT26"
+              },
+              {
+                "name": "Botanic Gardens",
+                "stationCode": "CC19 | DT9"
+              }
             ]
           },
           {
@@ -222,7 +595,10 @@
             "color": "Orange | Purple | Red",
             "code": "CC/CE | NE | NS",
             "station": [
-              "Dhoby Ghaut"
+              {
+                "name": "Dhoby Ghaut",
+                "stationCode": "CC1 | NE6 | NS24"
+              }
             ]
           },
           {
@@ -230,8 +606,14 @@
             "color": "Orange | Purple",
             "code": "CC/CE | NE",
             "station": [
-              "Serangoon",
-              "HarbourFront"
+              {
+                "name": "Serangoon",
+                "stationCode": "CC13 | NE12"
+              },
+              {
+                "name": "HarbourFront",
+                "stationCode": "CC29 | NE1"
+              }
             ]
           },
           {
@@ -239,7 +621,10 @@
             "color": "Blue | Red",
             "code": "DT | NS",
             "station": [
-              "Newton"
+              {
+                "name": "Newton",
+                "stationCode": "DT11 | NS21"
+              }
             ]
           },
           {
@@ -247,8 +632,14 @@
             "color": "Blue | Purple",
             "code": "DT | NE",
             "station": [
-              "Little India",
-              "Chinatown"
+              {
+                "name": "Little India",
+                "stationCode": "DT12 | NE7"
+              },
+              {
+                "name": "Chinatown",
+                "stationCode": "DT19 | NE14"
+              }
             ]
           },
           {
@@ -256,7 +647,10 @@
             "color": "Red | Brown",
             "code": "NS | TE",
             "station": [
-              "Woodlands"
+              {
+                "name": "Woodlands",
+                "stationCode": "NS9 | TE2"
+              }
             ]
           },
           {
@@ -264,7 +658,10 @@
             "color": "Orange | Brown",
             "code": "CC/CE | TE",
             "station": [
-              "Caldecott"
+              {
+                "name": "Caldecott",
+                "stationCode": "TE9 | CC17"
+              }
             ]
           },
           {
@@ -272,7 +669,10 @@
             "color": "Blue | Brown",
             "code": "DT | TE",
             "station": [
-              "Stevens"
+              {
+                "name": "Stevens",
+                "stationCode": "TE11 |  DT10"
+              }
             ]
           },
           {
@@ -280,7 +680,10 @@
             "color": "Red | Brown",
             "code": "NS | TE",
             "station": [
-              "Orchard"
+              {
+                "name": "Orchard",
+                "stationCode": "TE14 | NS22"
+              }
             ]
           }
         ]
