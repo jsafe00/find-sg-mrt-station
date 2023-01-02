@@ -23,6 +23,8 @@ const findStation = station => {
         line.station.map(station => {
           result.station = station.name;
           result.station_code = station.stationCode;
+          result.latitude = station.latitude;
+          result.longitude = station.longitude;
         
          });
       }

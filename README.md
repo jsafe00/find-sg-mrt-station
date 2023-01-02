@@ -43,11 +43,13 @@ console.log(find);
   color: 'Orange | Purple | Red',
   code: 'CC/CE | NE | NS',
   station: 'Dhoby Ghaut',
-  station_code: 'CC1 | NE6 | NS24'
+  station_code: 'CC1 | NE6 | NS24',
+  latitude: '1.29870130663',
+  longitude: '103.846115155'
 }
+
 
 ```
 
 
 ### If you spot some errors or needs to be updated, please request PR. Thanks.
-### Not yet final...

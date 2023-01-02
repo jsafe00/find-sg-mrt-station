@@ -10,107 +10,159 @@
             "station": [
               { 
                 "name": "Changi Aiport",
-                "stationCode": "CG2"
+                "stationCode": "CG2",
+                "latitude": "1.35747897469",
+                "longitude": "103.98788357"
               },   
               {
                 "name": "Pasir Ris", 
-                "stationCode": "EW1"
+                "stationCode": "EW1",
+                "latitude": "1.37304321199",
+                "longitude": "103.949284605"
               },
               {
                 "name": "Simei", 
-                "stationCode": "EW3"
+                "stationCode": "EW3",
+                "latitude": "1.34320289493",
+                "longitude": "103.953371694"
               },
               {
                 "name": "Tanah Merah", 
-                "stationCode": "EW4 | CG"
+                "stationCode": "EW4 | CG",
+                "latitude": "1.32718713454",
+                "longitude": "103.946346461"
               },
               {
                 "name": "Bedok", 
-                "stationCode": "EW5"
+                "stationCode": "EW5",
+                "latitude": "1.32397996889",
+                "longitude": "103.929984495"
               },
               {
                 "name": "Kembangan", 
-                "stationCode": "EW6"
+                "stationCode": "EW6",
+                "latitude": "1.32103824885",
+                "longitude": "103.912949388"
               },
               {
                 "name": "Eunos", 
-                "stationCode": "EW7"
+                "stationCode": "EW7",
+                "latitude": "1.3198383468",
+                "longitude": "103.903626852"
               },
               {
                 "name": "Aljuined", 
-                "stationCode": "EW9"
+                "stationCode": "EW9",
+                "latitude": "1.31643261166",
+                "longitude": "103.882906045"
               },
               {
                 "name": "Kallang", 
-                "stationCode": "EW10"
+                "stationCode": "EW10",
+                "latitude": "1.31148890964",
+                "longitude": "103.871386541"
               },
               {
                 "name": "Lavender", 
-                "stationCode": "EW11"
+                "stationCode": "EW11",
+                "latitude": "1.30739187936",
+                "longitude": "103.86278461"
               },
               {
                 "name": "Tanjong Pagar", 
-                "stationCode": "EW15"
+                "stationCode": "EW15",
+                "latitude": "1.27660448672",
+                "longitude": "103.845952195"
               },
               {
                 "name": "Tiong Bahru", 
-                "stationCode": "EW17"
+                "stationCode": "EW17",
+                "latitude": "1.28619457933",
+                "longitude": "103.82699894"
               },
               {
                 "name": "Redhill", 
-                "stationCode": "EW18"
+                "stationCode": "EW18",
+                "latitude": "1.28963453338",
+                "longitude": "103.81674097"
               },
               {
                 "name": "Queenstown", 
-                "stationCode": "EW19"
+                "stationCode": "EW19",
+                "latitude": "1.29455085173",
+                "longitude": "103.806077156"
               },
               {
                 "name": "Commonwealth", 
-                "stationCode": "EW20"
+                "stationCode": "EW20",
+                "latitude": "1.30250853671",
+                "longitude": "103.798226128"
               },
               {
                 "name": "Dover", 
-                "stationCode": "EW22"
+                "stationCode": "EW22",
+                "latitude": "1.31140529293",
+                "longitude": "103.778637842"
               },
               {
                 "name": "Clementi", 
-                "stationCode": "EW23"
+                "stationCode": "EW23",
+                "latitude": "1.31520126395",
+                "longitude": "103.765182447"
               },
               {
                 "name": "Chinese Garden", 
-                "stationCode": "EW25"
+                "stationCode": "EW25",
+                "latitude": "1.34235282087",
+                "longitude": "103.732596738"
               },
               {
                 "name": "Lakeside", 
-                "stationCode": "EW26"
+                "stationCode": "EW26",
+                "latitude": "1.3442592503",
+                "longitude": "103.720949268"
               },
               {
                 "name": "Boon Lay", 
-                "stationCode": "EW27"
+                "stationCode": "EW27",
+                "latitude": "1.3386040545",
+                "longitude": "103.706064623"
               },
               {
                 "name": "Pioneer", 
-                "stationCode": "EW28"
+                "stationCode": "EW28",
+                "latitude": "1.3375868822",
+                "longitude": "103.697321513"
               },
               {
                 "name": "Joo Kuun", 
-                "stationCode": "EW29"
+                "stationCode": "EW29",
+                "latitude": "1.32771717309",
+                "longitude": "103.678375144"
               },
               {
                 "name": "Gul Circle", 
-                "stationCode": "EW30"
+                "stationCode": "EW30",
+                "latitude": "1.31950521494",
+                "longitude": "103.660552957"
               },
               {
                 "name": "Tuas Crescent", 
-                "stationCode": "EW31"
+                "stationCode": "EW31",
+                "latitude": "1.32102655324",
+                "longitude": "103.649075477"
               },
               {
                 "name": "Tuas West Road", 
-                "stationCode": "EW32"
+                "stationCode": "EW32",
+                "latitude": "1.32998908905",
+                "longitude": "103.639614056"
               },
               {
                 "name": "Tuas Link", 
-                "stationCode": "EW33"
+                "stationCode": "EW33",
+                "latitude": "1.34086609564",
+                "longitude": "103.636985602"
               }
             ]
           },
@@ -121,79 +173,111 @@
             "station": [
               {
                 "name": "Bras Basah", 
-                "stationCode": "CC2"
+                "stationCode": "CC2",
+                "latitude": "1.29686168653",
+                "longitude": "103.850667372"
               },
               {
                 "name": "Esplanade", 
-                "stationCode": "CC3"
+                "stationCode": "CC3",
+                "latitude": "1.2936577248",
+                "longitude": "103.855081226"
               },
               {
                 "name": "Nicoll Highway", 
-                "stationCode": "CC5"
+                "stationCode": "CC5",
+                "latitude": "1.29976683527",
+                "longitude": "103.863637018"
               },
               {
                 "name": "Stadium", 
-                "stationCode": "CC6"
+                "stationCode": "CC6",
+                "latitude": "1.30281246884",
+                "longitude": "103.875337711"
               },
               {
                 "name": "Mountbatten", 
-                "stationCode": "CC7"
+                "stationCode": "CC7",
+                "latitude": "1.30620190483",
+                "longitude": "103.882528081"
               },
               {
                 "name": "Dakota", 
-                "stationCode": "CC8"
+                "stationCode": "CC8",
+                "latitude": "1.30854798428",
+                "longitude": "103.889064718"
               },
               {
                 "name": "Tai Seng", 
-                "stationCode": "CC11"
+                "stationCode": "CC11",
+                "latitude": "1.33510208536",
+                "longitude": "103.888433013"
               },
               {
                 "name": "Bartley", 
-                "stationCode": "CC12"
+                "stationCode": "CC12",
+                "latitude": "1.34250117776",
+                "longitude": "103.880177899"
               },
               {
                 "name": "Lorong Chuan", 
-                "stationCode": "CC14"
+                "stationCode": "CC14",
+                "latitude": "1.35161217103",
+                "longitude": "103.864151939"
               },
               {
                 "name": "Marymount", 
-                "stationCode": "CC16"
+                "stationCode": "CC16",
+                "latitude": "1.34870726302",
+                "longitude": "103.839423133"
               },
               {
                 "name": "Farrer Road", 
-                "stationCode": "CC20"
+                "stationCode": "CC20",
+                "latitude": "1.31743915137",
+                "longitude": "103.807379214"
               },
               {
                 "name": "Holland Village", 
-                "stationCode": "CC21"
-              },
-              {
-                "name": "Farrer Road", 
-                "stationCode": "CC20"
+                "stationCode": "CC21",
+                "latitude": "1.31224029607",
+                "longitude": "103.796399122"
               },
               {
                 "name": "One-North", 
-                "stationCode": "CC23"
+                "stationCode": "CC23",
+                "latitude": "1.29975987859",
+                "longitude": "103.787457508"
               },
               {
-                "name": "Kant Ridge", 
-                "stationCode": "CC24"
+                "name": "Kent Ridge", 
+                "stationCode": "CC24",
+                "latitude": "1.29353698614",
+                "longitude": "103.784572367"
               },
               {
                 "name": "Haw Par Villa", 
-                "stationCode": "CC25"
+                "stationCode": "CC25",
+                "latitude": "1.28257135831",
+                "longitude": "103.781752725"
               },
               {
                 "name": "Pasir Panjang", 
-                "stationCode": "CC26"
+                "stationCode": "CC26",
+                "latitude": "1.27621352269",
+                "longitude": "103.791350313"
               },
               {
                 "name": "Labrador Park", 
-                "stationCode": "CC27"
+                "stationCode": "CC27",
+                "latitude": "1.27225417751",
+                "longitude": "103.802631578"
               },
               {
                 "name": "Telok Blangah", 
-                "stationCode": "CC28"
+                "stationCode": "CC28",
+                "latitude": "1.27070647762",
+                "longitude": "103.809761611"
               }
             ]
           },
@@ -204,75 +288,111 @@
             "station": [
               {
                 "name": "Bukit Batok", 
-                "stationCode": "NS2"
+                "stationCode": "NS2",
+                "latitude": "1.34903410858",
+                "longitude": "103.749566764"
               },
               {
                 "name": "Bukit Gombak", 
-                "stationCode": "NS3"
+                "stationCode": "NS3",
+                "latitude": "1.35861159108",
+                "longitude": "103.751790911"
               },
               {
                 "name": "Choa Chu Kang", 
-                "stationCode": "NS4"
+                "stationCode": "NS4",
+                "latitude": "1.35861159108",
+                "longitude": "103.74437078"
               },
               {
-                "name": "Yaw Tee", 
-                "stationCode": "NS5"
+                "name": "Yew Tee", 
+                "stationCode": "NS5",
+                "latitude": "1.39753501779",
+                "longitude": "103.747405114"
               },
               {
                 "name": "Kranji", 
-                "stationCode": "NS7"
+                "stationCode": "NS7",
+                "latitude": "1.42508698033",
+                "longitude": "103.762137459"
               },
               {
                 "name": "Marsiling", 
-                "stationCode": "NS8"
+                "stationCode": "NS8",
+                "latitude": "1.43252114828",
+                "longitude": "103.774074641"
               },
               {
                 "name": "Admirality", 
-                "stationCode": "NS10"
+                "stationCode": "NS10",
+                "latitude": "1.44058500109",
+                "longitude": "1.44058500109"
               },
               {
                 "name": "Sembawang", 
-                "stationCode": "NS11"
+                "stationCode": "NS11",
+                "latitude": "1.44905082123",
+                "longitude": "103.820046141"
               },
               {
                 "name": "Canberra", 
-                "stationCode": "NS12"
+                "stationCode": "NS12",
+                "latitude": "1.44324371648",
+                "longitude": "103.829578144"
               },
               {
                 "name": "Yishun", 
-                "stationCode": "NS13"
+                "stationCode": "NS13",
+                "latitude": "1.42944308081",
+                "longitude": "103.835005046"
               },
               {
                 "name": "Khatib", 
-                "stationCode": "NS14"
+                "stationCode": "NS14",
+                "latitude": "1.41738337015",
+                "longitude": "103.832979909"
               },
               {
                 "name": "Yio Chu Kang", 
-                "stationCode": "NS15"
+                "stationCode": "NS15",
+                "latitude": "1.38175604611",
+                "longitude": "103.84494729"
               },
               {
                 "name": "Ang Mo Kio", 
-                "stationCode": "NS16"
+                "stationCode": "NS16",
+                "latitude": "1.36993317524",
+                "longitude": "103.849558131"
               },
               {
                 "name": "Braddell", 
-                "stationCode": "NS18"
+                "stationCode": "NS18",
+                "latitude": "1.34010520725",
+                "longitude": "103.846755921"
               },
               {
                 "name": "Toa Payoh", 
-                "stationCode": "NS19"
+                "stationCode": "NS19",
+                "latitude": "1.33262898712",
+                "longitude": "103.847501764"
               },
               {
                 "name": "Novena", 
-                "stationCode": "NS20"
+                "stationCode": "NS20",
+                "latitude": "1.32044079085",
+                "longitude": "103.843825619"
               },
               {
                 "name": "Somerset", 
-                "stationCode": "NS23"
+                "stationCode": "NS23",
+                "latitude": "1.30025287693",
+                "longitude": "103.839158337"
               },
               {
                 "name": "Marina South Pier", 
-                "stationCode": "NS28"
+                "stationCode": "NS28",
+                "latitude": "1.27102703618",
+                "longitude": "103.862447516"
               }
             ]
           },
@@ -283,95 +403,141 @@
             "station": [
               {
                 "name": "Bukit Panjang", 
-                "stationCode": "DT1"
+                "stationCode": "DT1",
+                "latitude": "1.37792612944",
+                "longitude": "103.763103024"
               },
               {
                 "name": "Cashew", 
-                "stationCode": "DT2"
+                "stationCode": "DT2",
+                "latitude": "1.36981544888",
+                "longitude": "103.764439214"
               },
               {
                 "name": "Hillview", 
-                "stationCode": "DT3"
+                "stationCode": "DT3",
+                "latitude": "1.36234486762",
+                "longitude": "103.767418254"
               },
               {
                 "name": "Beauty World", 
-                "stationCode": "DT5"
+                "stationCode": "DT5",
+                "latitude": "1.34122317571",
+                "longitude": "103.775794285"
               },
               {
                 "name": "King Albert Park", 
-                "stationCode": "DT6"
+                "stationCode": "DT6",
+                "latitude": "1.33566276202",
+                "longitude": "103.783399114"
               },
               {
                 "name": "Sixth Avenue", 
-                "stationCode": "DT7"
+                "stationCode": "DT7",
+                "latitude": "1.33085764535",
+                "longitude": "103.796906839"
               },
               {
                 "name": "Tan Kah Kee", 
-                "stationCode": "DT8"
+                "stationCode": "DT8",
+                "latitude": "1.32555623509",
+                "longitude": "103.807760305"
               },
               {
                 "name": "Rochor", 
-                "stationCode": "DT13"
+                "stationCode": "DT13",
+                "latitude": "1.30385218548",
+                "longitude": "103.852769429"
               },
               {
                 "name": "Downton", 
-                "stationCode": "DT17"
+                "stationCode": "DT17",
+                "latitude": "1.27944619038",
+                "longitude": "103.852840444"
               },
               {
                 "name": "Telok Ayer", 
-                "stationCode": "DT18"
+                "stationCode": "DT18",
+                "latitude": "1.28206894778",
+                "longitude": "103.848648781"
               },
               {
                 "name": "Fort Canning", 
-                "stationCode": "DT20"
+                "stationCode": "DT20",
+                "latitude": "1.29247892792",
+                "longitude": "103.84432827"
               },
               {
                 "name": "Bencoolen", 
-                "stationCode": "DT21"
+                "stationCode": "DT21",
+                "latitude": "1.29891843393",
+                "longitude": "103.850353762"
               },
               {
                 "name": "Jalan Besar", 
-                "stationCode": "DT22"
+                "stationCode": "DT22",
+                "latitude": "1.30517138759",
+                "longitude": "103.855295714"
               },
               {
                 "name": "Bendemeer", 
-                "stationCode": "DT23"
+                "stationCode": "DT23",
+                "latitude": "1.31367223254",
+                "longitude": "103.862977987"
               },
               {
                 "name": "Geylang Bahru", 
-                "stationCode": "DT24"
+                "stationCode": "DT24",
+                "latitude": "1.32150583802",
+                "longitude": "103.871900626"
               },
               {
                 "name": "Mattar", 
-                "stationCode": "DT25"
+                "stationCode": "DT25",
+                "latitude": "1.32687671471",
+                "longitude": "103.883247509"
               },
               {
                 "name": "Ubi", 
-                "stationCode": "DT27"
+                "stationCode": "DT27",
+                "latitude": "1.3299746288",
+                "longitude": "103.899226655"
               },
               {
                 "name": "Kaki Bukit", 
-                "stationCode": "DT28"
+                "stationCode": "DT28",
+                "latitude": "1.33496730156",
+                "longitude": "103.908459734"
               },
               {
                 "name": "Bedok North", 
-                "stationCode": "DT29"
+                "stationCode": "DT29",
+                "latitude": "1.33474211676",
+                "longitude": "103.91797833"
               },
               {
                 "name": "Bedok Reservoir", 
-                "stationCode": "DT30"
+                "stationCode": "DT30",
+                "latitude": "1.33660782981",
+                "longitude": "103.932234624"
               },
               {
                 "name": "Tampines West", 
-                "stationCode": "DT31"
+                "stationCode": "DT31",
+                "latitude": "1.3455153053",
+                "longitude": "103.938436971"
               },
               {
                 "name": "Tampines East", 
-                "stationCode": "DT33"
+                "stationCode": "DT33",
+                "latitude": "1.35619148304",
+                "longitude": "103.954634463"
               },
               {
                 "name": "Upper Changi", 
-                "stationCode": "DT35"
+                "stationCode": "DT35",
+                "latitude": "1.34173748389",
+                "longitude": "103.961471789"
               }
             ]
           },
@@ -382,43 +548,63 @@
             "station": [
               {
                 "name": "Clarke Quay", 
-                "stationCode": "NE5"
+                "stationCode": "NE5",
+                "latitude": "1.2883860242",
+                "longitude": "103.846555209"
               },
               {
                 "name": "Farrer Park", 
-                "stationCode": "NE8"
+                "stationCode": "NE8",
+                "latitude": "1.31190557366",
+                "longitude": "103.853477716"
               },
               {
                 "name": "Boon Keng", 
-                "stationCode": "NE9"
+                "stationCode": "NE9",
+                "latitude": "1.31933570911",
+                "longitude": "103.861569454"
               },
               {
                 "name": "Potong Pasir", 
-                "stationCode": "NE10"
+                "stationCode": "NE10",
+                "latitude": "1.33137952462",
+                "longitude": "103.869055665"
               },
               {
                 "name": "Woodleigh", 
-                "stationCode": "NE11"
+                "stationCode": "NE11",
+                "latitude": "1.33919004553",
+                "longitude": "103.870818309"
               },
               {
                 "name": "Kovan", 
-                "stationCode": "NE13"
+                "stationCode": "NE13",
+                "latitude": "1.36017917027",
+                "longitude": "103.885064856"
               },
               {
                 "name": "Hougang", 
-                "stationCode": "NE14"
+                "stationCode": "NE14",
+                "latitude": "1.37129229258",
+                "longitude": "103.892380519"
               },
               {
                 "name": "Buangkok", 
-                "stationCode": "NE15"
+                "stationCode": "NE15",
+                "latitude": "1.38287785815",
+                "longitude": "103.893121565"
               },
               {
                 "name": "Sengkang", 
-                "stationCode": "NE16"
+                "stationCode": "NE16",
+                "latitude": "1.3916946261",
+                "longitude": "103.895484694"
               },
               {
                 "name": "Punggol", 
-                "stationCode": "NE17"
+                "stationCode": "NE17",
+                "latitude": "1.40454672779",
+                "longitude": "103.902072638"
               }
             ]
           },
@@ -429,55 +615,81 @@
             "station": [
               {
                 "name": "Woodlands North", 
-                "stationCode": "TE1"
+                "stationCode": "TE1",
+                "latitude": "1.44746541049",
+                "longitude": "103.786500735"
               },
               {
                 "name": "Woodlands South", 
-                "stationCode": "TE3"
+                "stationCode": "TE3",
+                "latitude": "1.42743341606",
+                "longitude": "103.793244602"
               },
               {
                 "name": "Springleaf", 
-                "stationCode": "TE4"
+                "stationCode": "TE4",
+                "latitude": "1.39757790701",
+                "longitude": "103.817799543"
               },
               {
                 "name": "Lentor", 
-                "stationCode": "TE5"
+                "stationCode": "TE5",
+                "latitude": "1.38550657933",
+                "longitude": "103.83574381"
               },
               {
                 "name": "Mayflower", 
-                "stationCode": "TE6"
+                "stationCode": "TE6",
+                "latitude": "1.3714631884",
+                "longitude": "103.836567766"
               },
               {
                 "name": "Bright Hill", 
-                "stationCode": "TE7"
+                "stationCode": "TE7",
+                "latitude": "1.36367137584",
+                "longitude": "103.833631645"
               },
               {
                 "name": "Upper Thomson", 
-                "stationCode": "TE8"
+                "stationCode": "TE8",
+                "latitude": "1.35441643373",
+                "longitude": "103.832898468"
               },
               {
                 "name": "Napier", 
-                "stationCode": "TE12"
+                "stationCode": "TE12",
+                "latitude": "1.30678307773",
+                "longitude": "103.818967004"
               },
               {
                 "name": "Orchard Boulevard", 
-                "stationCode": "TE13"
+                "stationCode": "TE13",
+                "latitude": "1.30242224794",
+                "longitude": "103.823868523"
               },
               {
                 "name": "Great World", 
-                "stationCode": "TE15"
+                "stationCode": "TE15",
+                "latitude": "1.2938147349",
+                "longitude": "103.833725122"
               },
               {
                 "name": "Havelock", 
-                "stationCode": "TE16"
+                "stationCode": "TE16",
+                "latitude": "1.289352", 
+                "longitude": "103.835019"
               },
               {
                 "name": "Maxwell", 
-                "stationCode": "TE18"
+                "stationCode": "TE18",
+                "latitude": "1.28053158615",
+                "longitude": "103.843847647"
               },
               {
                 "name": "Shenton Way", 
-                "stationCode": "TE19"
+                "stationCode": "TE19",
+                "latitude": "1.27773021973",
+                "longitude": "103.850405709"
               }
             ]
           },
@@ -488,15 +700,21 @@
             "station": [
               {
                 "name": "Expo", 
-                "stationCode": "CG1 | DT35"
+                "stationCode": "CG1 | DT35",
+                "latitude": "1.33538213733",
+                "longitude": "103.962375707"
               },
               {
                 "name": "Tampines", 
-                "stationCode": "EW2 | DT32"
+                "stationCode": "EW2 | DT32",
+                "latitude": "1.35330153288",
+                "longitude": "103.945144689"
               },
               {
                 "name": "Bugis", 
-                "stationCode": "EW12 | DT14"
+                "stationCode": "EW12 | DT14",
+                "latitude": "1.3002646898",
+                "longitude": "103.855614761"
               }
             ]
           },
@@ -507,11 +725,15 @@
             "station": [
               {
                 "name": "Paya Lebar", 
-                "stationCode": "EW8 | CC9"
+                "stationCode": "EW8 | CC9",
+                "latitude": "1.3172473855",
+                "longitude": "103.892260754"
               },
               {
                 "name": "Buona Vista", 
-                "stationCode": "EW21 | CC22"
+                "stationCode": "EW21 | CC22",
+                "latitude": "1.30663450449",
+                "longitude": "103.790709404"
               }
             ]
           },
@@ -522,15 +744,21 @@
             "station": [
               {
                 "name": "City Hall", 
-                "stationCode": "EW13 | NS25"
+                "stationCode": "EW13 | NS25",
+                "latitude": "1.29293624285",
+                "longitude": "103.852585892"
               },
               {
                 "name": "Raffles Place", 
-                "stationCode": "EW14| NS26"
+                "stationCode": "EW14| NS26",
+                "latitude": "1.28412561057",
+                "longitude": "103.851461712"
               },
               {
                 "name": "Jurong East", 
-                "stationCode": "EW24 | NS1"
+                "stationCode": "EW24 | NS1",
+                "latitude": "1.33315261989",
+                "longitude": "103.742286544"
               }
             ]
           },
@@ -541,7 +769,9 @@
             "station": [
               {
                 "name": "Outram Park", 
-                "stationCode": "EW16 | NE3"
+                "stationCode": "EW16 | NE3",
+                "latitude": "1.27973970676",
+                "longitude": "103.839513521"
               }
             ]
           },
@@ -552,7 +782,9 @@
             "station": [
               {
               "name": "Bishan",
-              "stationCode": "NS17 | CC15"
+              "stationCode": "NS17 | CC15",
+              "latitude": "1.35130868012",
+              "longitude": "103.849154419"
               } 
             ]
           },
@@ -563,7 +795,9 @@
             "station": [
               {
                 "name": "Marina Bay",
-                "stationCode": "CE2 | NS27"
+                "stationCode": "CE2 | NS27",
+                "latitude": "1.2763111438",
+                "longitude": "103.854604976"
               } 
             ]
           },
@@ -574,19 +808,27 @@
             "station": [
               {
                 "name": "Bayfront",
-                "stationCode": "CE1 | DT16"
+                "stationCode": "CE1 | DT16",
+                "latitude": "1.28187378849",
+                "longitude": "103.859079765"
               },
               {
                 "name": "Promenade",
-                "stationCode": "CC4 | DT15"
+                "stationCode": "CC4 | DT15",
+                "latitude": "1.29289175425",
+                "longitude": "103.8608918"
               },
               {
                 "name": "MacPherson",
-                "stationCode": "CC10 | DT26"
+                "stationCode": "CC10 | DT26",
+                "latitude": "1.32615024251",
+                "longitude": "103.889298596"
               },
               {
                 "name": "Botanic Gardens",
-                "stationCode": "CC19 | DT9"
+                "stationCode": "CC19 | DT9",
+                "latitude": "1.3224880711",
+                "longitude": "103.816013994"
               }
             ]
           },
@@ -597,7 +839,9 @@
             "station": [
               {
                 "name": "Dhoby Ghaut",
-                "stationCode": "CC1 | NE6 | NS24"
+                "stationCode": "CC1 | NE6 | NS24",
+                "latitude": "1.29870130663",
+                "longitude": "103.846115155"
               }
             ]
           },
@@ -608,11 +852,15 @@
             "station": [
               {
                 "name": "Serangoon",
-                "stationCode": "CC13 | NE12"
+                "stationCode": "CC13 | NE12",
+                "latitude": "1.35063361483",
+                "longitude": "103.872771661"
               },
               {
                 "name": "HarbourFront",
-                "stationCode": "CC29 | NE1"
+                "stationCode": "CC29 | NE1",
+                "latitude": "1.26538938442",
+                "longitude": "103.821530157"
               }
             ]
           },
@@ -623,7 +871,9 @@
             "station": [
               {
                 "name": "Newton",
-                "stationCode": "DT11 | NS21"
+                "stationCode": "DT11 | NS21",
+                "latitude": "1.31232009956",
+                "longitude": "103.8379853"
               }
             ]
           },
@@ -634,11 +884,15 @@
             "station": [
               {
                 "name": "Little India",
-                "stationCode": "DT12 | NE7"
+                "stationCode": "DT12 | NE7",
+                "latitude": "1.30680002531",
+                "longitude": "103.849646967"
               },
               {
                 "name": "Chinatown",
-                "stationCode": "DT19 | NE14"
+                "stationCode": "DT19 | NE14",
+                "latitude": "1.28435957823",
+                "longitude": "103.843426776"
               }
             ]
           },
@@ -649,7 +903,9 @@
             "station": [
               {
                 "name": "Woodlands",
-                "stationCode": "NS9 | TE2"
+                "stationCode": "NS9 | TE2",
+                "latitude": "1.43696824734",
+                "longitude": "103.786462452"
               }
             ]
           },
@@ -660,7 +916,9 @@
             "station": [
               {
                 "name": "Caldecott",
-                "stationCode": "TE9 | CC17"
+                "stationCode": "TE9 | CC17",
+                "latitude": "1.33767450804",
+                "longitude": "103.839529821"
               }
             ]
           },
@@ -671,7 +929,9 @@
             "station": [
               {
                 "name": "Stevens",
-                "stationCode": "TE11 |  DT10"
+                "stationCode": "TE11 |  DT10",
+                "latitude": "1.32006555791",
+                "longitude": "103.826024402"
               }
             ]
           },
@@ -682,7 +942,9 @@
             "station": [
               {
                 "name": "Orchard",
-                "stationCode": "TE14 | NS22"
+                "stationCode": "TE14 | NS22",
+                "latitude": "1.30398101334",
+                "longitude": "103.832241452"
               }
             ]
           }
