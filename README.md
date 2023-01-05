@@ -1,6 +1,6 @@
 # Find SG MRT Station
 
-Simple npm package that returns the line name, color and code data based on station.
+Simple npm package that returns the line name, color and code and station data based on station.
 
 https://www.npmjs.com/package/find-sg-mrt-station
 
@@ -50,6 +50,10 @@ console.log(find);
 
 
 ```
+### Github
 
+```
+https://github.com/jsafe00/find-sg-mrt-station
+```
 
 ### If you spot some errors or needs to be updated, please request PR. Thanks.
