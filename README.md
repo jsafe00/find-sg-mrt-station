@@ -39,11 +39,11 @@ console.log(find);
 {
   found: true,
   mrt: 'Singapore MRT',
-  name: 'Circle Line | North-East Line | North-South Line',
-  color: 'Orange | Purple | Red',
-  code: 'CC/CE | NE | NS',
+  name: 'Circle Line, North-East Line, North-South Line',
+  color: 'Orange, Purple, Red',
+  code: 'CC/CE, NE, NS',
   station: 'Dhoby Ghaut',
-  station_code: 'CC1 | NE6 | NS24',
+  station_code: 'CC1, NE6, NS24',
   latitude: '1.29870130663',
   longitude: '103.846115155'
 }
@@ -56,4 +56,4 @@ console.log(find);
 https://github.com/jsafe00/find-sg-mrt-station
 ```
 
-### If you spot some errors or needs to be updated, please request PR. Thanks.
+### If you spot errors or needs to be updated, please create PR. Thanks.

@@ -28,7 +28,7 @@
               },
               {
                 "name": "Tanah Merah", 
-                "stationCode": "EW4 | CG",
+                "stationCode": "EW4, CG",
                 "latitude": "1.32718713454",
                 "longitude": "103.946346461"
               },
@@ -694,255 +694,255 @@
             ]
           },
           {
-            "name": "East-West Line | Downtown Line",
-            "color": "Green | Blue",
-            "code": "EW |  DT",
+            "name": "East-West Line,  Downtown Line",
+            "color": "Green, Blue",
+            "code": "EW,  DT",
             "station": [
               {
                 "name": "Expo", 
-                "stationCode": "CG1 | DT35",
+                "stationCode": "CG1, DT35",
                 "latitude": "1.33538213733",
                 "longitude": "103.962375707"
               },
               {
                 "name": "Tampines", 
-                "stationCode": "EW2 | DT32",
+                "stationCode": "EW2, DT32",
                 "latitude": "1.35330153288",
                 "longitude": "103.945144689"
               },
               {
                 "name": "Bugis", 
-                "stationCode": "EW12 | DT14",
+                "stationCode": "EW12, DT14",
                 "latitude": "1.3002646898",
                 "longitude": "103.855614761"
               }
             ]
           },
           {
-            "name": "East-West Line | Circle Line",
-            "color": "Green | Orange",
-            "code": "EW |  CC/CE",
+            "name": "East-West Line, Circle Line",
+            "color": "Green, Orange",
+            "code": "EW, CC/CE",
             "station": [
               {
                 "name": "Paya Lebar", 
-                "stationCode": "EW8 | CC9",
+                "stationCode": "EW8, CC9",
                 "latitude": "1.3172473855",
                 "longitude": "103.892260754"
               },
               {
                 "name": "Buona Vista", 
-                "stationCode": "EW21 | CC22",
+                "stationCode": "EW21, CC22",
                 "latitude": "1.30663450449",
                 "longitude": "103.790709404"
               }
             ]
           },
           {
-            "name": "East-West Line | North-South Line",
-            "color": "Green | Red",
-            "code": "EW |  NS",
+            "name": "East-West Line, North-South Line",
+            "color": "Green, Red",
+            "code": "EW, NS",
             "station": [
               {
                 "name": "City Hall", 
-                "stationCode": "EW13 | NS25",
+                "stationCode": "EW13, NS25",
                 "latitude": "1.29293624285",
                 "longitude": "103.852585892"
               },
               {
                 "name": "Raffles Place", 
-                "stationCode": "EW14| NS26",
+                "stationCode": "EW14, NS26",
                 "latitude": "1.28412561057",
                 "longitude": "103.851461712"
               },
               {
                 "name": "Jurong East", 
-                "stationCode": "EW24 | NS1",
+                "stationCode": "EW24, NS1",
                 "latitude": "1.33315261989",
                 "longitude": "103.742286544"
               }
             ]
           },
           {
-            "name": "East-West Line | North-East Line",
-            "color": "Green | Purple",
-            "code": "EW | NE",
+            "name": "East-West Line, North-East Line",
+            "color": "Green, Purple",
+            "code": "EW, NE",
             "station": [
               {
                 "name": "Outram Park", 
-                "stationCode": "EW16 | NE3",
+                "stationCode": "EW16, NE3",
                 "latitude": "1.27973970676",
                 "longitude": "103.839513521"
               }
             ]
           },
           {
-            "name": "Circle Line | North-South Line",
-            "color": "Orange | Red",
-            "code": "CC/CE | NS",
+            "name": "Circle Line, North-South Line",
+            "color": "Orange, Red",
+            "code": "CC/CE, NS",
             "station": [
               {
               "name": "Bishan",
-              "stationCode": "NS17 | CC15",
+              "stationCode": "NS17, CC15",
               "latitude": "1.35130868012",
               "longitude": "103.849154419"
               } 
             ]
           },
           {
-            "name": "Circle Line | North-South Line | Thomson-East Coast Line",
-            "color": "Orange | Red | Brown",
-            "code": "CC/CE | NS | TE",
+            "name": "Circle Line, North-South Line, Thomson-East Coast Line",
+            "color": "Orange, Red,Brown",
+            "code": "CC/CE, NS, TE",
             "station": [
               {
                 "name": "Marina Bay",
-                "stationCode": "CE2 | NS27",
+                "stationCode": "CE2, NS27",
                 "latitude": "1.2763111438",
                 "longitude": "103.854604976"
               } 
             ]
           },
           {
-            "name": "Circle Line | Downtown Line",
-            "color": "Orange | Blue",
-            "code": "CC/CE | DT",
+            "name": "Circle Line, Downtown Line",
+            "color": "Orange, Blue",
+            "code": "CC/CE, DT",
             "station": [
               {
                 "name": "Bayfront",
-                "stationCode": "CE1 | DT16",
+                "stationCode": "CE1, DT16",
                 "latitude": "1.28187378849",
                 "longitude": "103.859079765"
               },
               {
                 "name": "Promenade",
-                "stationCode": "CC4 | DT15",
+                "stationCode": "CC4, DT15",
                 "latitude": "1.29289175425",
                 "longitude": "103.8608918"
               },
               {
                 "name": "MacPherson",
-                "stationCode": "CC10 | DT26",
+                "stationCode": "CC10, DT26",
                 "latitude": "1.32615024251",
                 "longitude": "103.889298596"
               },
               {
                 "name": "Botanic Gardens",
-                "stationCode": "CC19 | DT9",
+                "stationCode": "CC19, DT9",
                 "latitude": "1.3224880711",
                 "longitude": "103.816013994"
               }
             ]
           },
           {
-            "name": "Circle Line | North-East Line | North-South Line",
-            "color": "Orange | Purple | Red",
-            "code": "CC/CE | NE | NS",
+            "name": "Circle Line, North-East Line, North-South Line",
+            "color": "Orange, Purple, Red",
+            "code": "CC/CE, NE, NS",
             "station": [
               {
                 "name": "Dhoby Ghaut",
-                "stationCode": "CC1 | NE6 | NS24",
+                "stationCode": "CC1, NE6, NS24",
                 "latitude": "1.29870130663",
                 "longitude": "103.846115155"
               }
             ]
           },
           {
-            "name": "Circle Line | North-East Line",
-            "color": "Orange | Purple",
-            "code": "CC/CE | NE",
+            "name": "Circle Line, North-East Line",
+            "color": "Orange, Purple",
+            "code": "CC/CE, NE",
             "station": [
               {
                 "name": "Serangoon",
-                "stationCode": "CC13 | NE12",
+                "stationCode": "CC13, NE12",
                 "latitude": "1.35063361483",
                 "longitude": "103.872771661"
               },
               {
                 "name": "HarbourFront",
-                "stationCode": "CC29 | NE1",
+                "stationCode": "CC29, NE1",
                 "latitude": "1.26538938442",
                 "longitude": "103.821530157"
               }
             ]
           },
           {
-            "name": "Downtown Line | North-South Line",
-            "color": "Blue | Red",
-            "code": "DT | NS",
+            "name": "Downtown Line, North-South Line",
+            "color": "Blue, Red",
+            "code": "DT, NS",
             "station": [
               {
                 "name": "Newton",
-                "stationCode": "DT11 | NS21",
+                "stationCode": "DT11, NS21",
                 "latitude": "1.31232009956",
                 "longitude": "103.8379853"
               }
             ]
           },
           {
-            "name": "Downtown Line | North-East Line",
-            "color": "Blue | Purple",
-            "code": "DT | NE",
+            "name": "Downtown Line, North-East Line",
+            "color": "Blue, Purple",
+            "code": "DT, NE",
             "station": [
               {
                 "name": "Little India",
-                "stationCode": "DT12 | NE7",
+                "stationCode": "DT12, NE7",
                 "latitude": "1.30680002531",
                 "longitude": "103.849646967"
               },
               {
                 "name": "Chinatown",
-                "stationCode": "DT19 | NE14",
+                "stationCode": "DT19, NE14",
                 "latitude": "1.28435957823",
                 "longitude": "103.843426776"
               }
             ]
           },
           {
-            "name": "North-South Line | Thomson-East Coast Line",
-            "color": "Red | Brown",
-            "code": "NS | TE",
+            "name": "North-South Line, Thomson-East Coast Line",
+            "color": "Red, Brown",
+            "code": "NS, TE",
             "station": [
               {
                 "name": "Woodlands",
-                "stationCode": "NS9 | TE2",
+                "stationCode": "NS9, TE2",
                 "latitude": "1.43696824734",
                 "longitude": "103.786462452"
               }
             ]
           },
           {
-            "name": "Circle Line | Thomson-East Coast Line",
-            "color": "Orange | Brown",
-            "code": "CC/CE | TE",
+            "name": "Circle Line, Thomson-East Coast Line",
+            "color": "Orange, Brown",
+            "code": "CC/CE, TE",
             "station": [
               {
                 "name": "Caldecott",
-                "stationCode": "TE9 | CC17",
+                "stationCode": "TE9, CC17",
                 "latitude": "1.33767450804",
                 "longitude": "103.839529821"
               }
             ]
           },
           {
-            "name": "Downton Line | Thomson-East Coast Line",
-            "color": "Blue | Brown",
-            "code": "DT | TE",
+            "name": "Downton Line, Thomson-East Coast Line",
+            "color": "Blue, Brown",
+            "code": "DT, TE",
             "station": [
               {
                 "name": "Stevens",
-                "stationCode": "TE11 |  DT10",
+                "stationCode": "TE11, DT10",
                 "latitude": "1.32006555791",
                 "longitude": "103.826024402"
               }
             ]
           },
           {
-            "name": "North-South Line | Thomson-East Coast Line",
-            "color": "Red | Brown",
-            "code": "NS | TE",
+            "name": "North-South Line, Thomson-East Coast Line",
+            "color": "Red, Brown",
+            "code": "NS, TE",
             "station": [
               {
                 "name": "Orchard",
-                "stationCode": "TE14 | NS22",
+                "stationCode": "TE14, NS22",
                 "latitude": "1.30398101334",
                 "longitude": "103.832241452"
               }

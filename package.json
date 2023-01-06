@@ -1,6 +1,6 @@
 {
   "name": "find-sg-mrt-station",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "SG MRT Experiment <I Love SG MRT>",
   "main": "index.js",
   "scripts": {
