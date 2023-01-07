@@ -1,12 +1,12 @@
 {
   "name": "find-sg-mrt-station",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "SG MRT Experiment <I Love SG MRT>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["sg", "mrt", "sg-mrt"],
+  "keywords": ["sg", "mrt", "sg-mrt", "singapore-mrt", "singapore"],
   "author": "Josafe Balili <[josafebalili@gmail.com](mailto:josafebalili@gmail.com)>",
   "license": "ISC"
 }

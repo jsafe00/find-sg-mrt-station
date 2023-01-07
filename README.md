@@ -39,16 +39,14 @@ console.log(find);
 {
   found: true,
   mrt: 'Singapore MRT',
-  name: 'Circle Line, North-East Line, North-South Line',
-  color: 'Orange, Purple, Red',
-  code: 'CC/CE, NE, NS',
-  station: 'Dhoby Ghaut',
+  line_name: 'Circle Line, North-East Line, North-South Line',
+  line_color: 'Orange, Purple, Red',
+  line_code: 'CC/CE, NE, NS',
+  station_name: 'Dhoby Ghaut',
   station_code: 'CC1, NE6, NS24',
   latitude: '1.29870130663',
   longitude: '103.846115155'
 }
-
-
 ```
 ### Github
 
